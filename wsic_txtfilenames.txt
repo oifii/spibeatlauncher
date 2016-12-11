@@ -1,0 +1,14 @@
+wavfolder_synth-synthdrums-Aerobic Kit Samples.txt
+wavfolder_synth-synthdrums-April Fools Kit Samples.txt
+wavfolder_synth-synthdrums-Crunchy Flakes Kit Samples.txt
+wavfolder_synth-synthdrums-Hype Disbelief Kit Samples.txt
+wavfolder_synth-synthdrums-Neon Force Kit Samples.txt
+wavfolder_synth-synthdrums-New Rave Kit Samples.txt
+wavfolder_synth-synthdrums-No Mirrors Kit Samples.txt
+wavfolder_synth-synthdrums-Out For Fame Kit Samples.txt
+wavfolder_synth-synthdrums-Radioactive Kit Samples.txt
+wavfolder_synth-synthdrums-Remember The Future Kit Samples.txt
+wavfolder_synth-synthdrums-Suburban Kit Samples.txt
+wavfolder_synth-synthdrums-Ultraviolet Kit Samples.txt
+wavfolder_synth-synthdrums-Up In Smoke Kit Samples.txt
+wavfolder_synth-synthdrums-YMCK Kit Samples.txt
